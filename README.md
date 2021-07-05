@@ -1,4 +1,6 @@
 # Context free grammar language word acceptance
+Using the CYK Algorithm with the representation I found on https://www.xarg.org/tools/cyk-algorithm/.
+
 The input form is:
 1. The non-terminal states of the CFG separated by space.
 2. The terminals of the CFG separated by space.

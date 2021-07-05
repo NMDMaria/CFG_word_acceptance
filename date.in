@@ -1,0 +1,13 @@
+S A B C D
+a b
+5
+S=a|CA|AC|b
+A=DB
+B=AC|b|a
+C=a
+D=CB
+S
+aaabab
+-> Nu
+aababba
+-> Da
